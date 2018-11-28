@@ -1,13 +1,9 @@
 package Week_1
 
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-//import kotlin.test.assertEquals
-//import org.junit.jupiter.api.Assertions.assertEquals
-//import org.junit.jupiter.api.Test
-
 class MarkingWayOnMapTests {
-
 
     @Test
     fun `Marks start and end as part of way`() {
